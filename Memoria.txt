@@ -1,0 +1,3 @@
+En la práctica he realizado mi primera web con HTML indicando título de la web, nombre del negocio de las mascotas, y he dividido las distintas partes que se solicitaban con el encabezado h2.
+He puesto imagenes de los cuidadores en el listado de personas y he creado una tabla de precios de los servicios.
+Para el contacto he creado un formulario a rellenar con el nombre de la persona, email, tipo de servicio que seleccionar y boton para enviar y que podamos contactar con la persona en cuestión para ampliar información sobre los servicios que ofrecemos y funcionamiento.
